@@ -1,7 +1,6 @@
 - 👋 Hi, I’m SmallestIQ
 - 👀 I’m interested in: Cybersecurity
 - 🌱 I’m currently learning: Java
-- 📫 How to reach me: small#2736
 
 
 
