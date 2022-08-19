@@ -1,10 +1,9 @@
-- 👋 Hi, I’m SmallestIQ
-- 👀 I’m interested in: Cybersecurity
-- 🌱 I’m currently learning: Java
-
-
-
-![Small1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Small1337&show_icons=true&theme=tokyonight)
-
-
-
+<p align="center">
+  <samp>
+    Hi, I'm Austin! 👋 <br>
+    🔥 Aspiring Software Developer  <br>
+    :sparkles: Favorite Tech: Python, C++ <br>
+    :notebook: I’m currently learning Cisco 😭  <br>
+    :art: Portfolio: soonTM <br>
+  </samp>
+</p>
